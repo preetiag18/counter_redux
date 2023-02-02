@@ -1,0 +1,18 @@
+main{
+    height:70vh;
+    background: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,9 @@
+.button {
+  height: 2rem;
+  width: auto;
+  border: 2px solid purple;
+  margin: 1rem 1rem;
+  background: plum;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
